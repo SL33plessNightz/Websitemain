@@ -1,0 +1,25 @@
+
+body {
+background-color: #FFF;
+color: #5e5e5e;
+font-family: verdana, arial, sans-serif
+}
+
+header{
+background-color: #08308d;
+color: white;
+font-family: georgia, serif;
+}
+
+h1{
+line-height: 200%;
+
+}
+
+.bottomTitle {
+  color: rgb(73, 80, 187);
+}
+
+.LightChange {
+    background-color: wheat
+}
